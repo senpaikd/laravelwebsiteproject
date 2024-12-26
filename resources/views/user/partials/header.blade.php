@@ -22,7 +22,7 @@
                         <li class="nav-item"><a class="nav-link" href="{{ url('/') }}">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('user.about.about') }}">About</a></li>
                         <li class="nav-item"><a class="nav-link" href="{{ route('user.contact.show') }}">Contact</a></li>
-                        <li class="nav-item"><a class="nav-link" href="{{ route('user.courses') }}">Courses</a></li>
+                        <li class="nav-item"><a class="nav-link" href="">Courses</a></li>
                         <li class="nav-item submenu dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Account</a>
                             <ul class="dropdown-menu">
