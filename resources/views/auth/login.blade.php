@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('user.layouts.app')
 
 @section('content')
 <div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh; background-color: #f4f7fc; padding: 0;">
